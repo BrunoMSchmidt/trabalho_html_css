@@ -32,7 +32,7 @@ section.title::after {
     content: "";
     position: absolute;
     inset: 0;
-    background-image: url('/assets/images/title.jpg');
+    background-image: url('../images/title.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(.5);
